@@ -6,7 +6,9 @@ Jego zadaniem było odtworzenie mechaniki gier tj. Fly Hard, Learn to Fly polega
 # Znane bugi:
 - Możliwe, że będzie potrzebne kilkukrotne uruchomienie kodu gry, ponieważ z niewiadomych mi (obecnie) przyczyn komponent KeyListener działaniem przypomina działanie niektórych samochodów z okresu Zimnej Wojny;
 
-Instrukcje dotyczące gry:
+# Cel:
+Osiągnąć wysokość 25000 metrów - wówczas gra się kończy;
+
 # Sterowanie: 
 Strzałki lewo/prawo - sterowanie rakietą;
 Strzałka w górę - przyspieszanie rakiety;
@@ -18,7 +20,6 @@ Strzałka w górę - przyspieszanie rakiety;
 - różowy kwadrat - przeciwnik do uniknięcia;
 - czarny kwadrat - ruchomy przeciwnik do uniknięcia;
 
-# Cel:
-Osiągnąć wysokość 25000 metrów - wówczas gra się kończy;
+
 
 
